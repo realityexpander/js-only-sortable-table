@@ -1,6 +1,7 @@
 
 // from codepen:
 // https://codepen.io/dcode-software/pen/zYGOrzK
+// https://codepen.io/dcode-software/pen/dLVwOY
 // Styling HTML tables with CSS - Web Design/UX Tutorial, https://www.youtube.com/watch?v=biI9OFH6Nmg
 // How to easily sort HTML tables with CSS & JavaScript - Web Tutorial, https://www.youtube.com/watch?v=8SL_hM1a0yo
 /**
